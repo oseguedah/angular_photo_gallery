@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-photo-gallery"
+    }
+  },
+  "defaultProject": "angular-photo-gallery",
+  "cli": {
+    "analytics": "c3df407c-f286-4242-ab57-fc71ed0922ce"
+  }
 }
